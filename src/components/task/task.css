@@ -1,0 +1,8 @@
+.task {
+    width : 30%;
+    border : 5px solid olive;
+    border-radius: 1rem;
+    margin: 1em auto;
+    padding: 1em;
+    background-color: seagreen;
+}
